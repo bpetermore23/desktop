@@ -103,7 +103,7 @@
     "spectron": "^11.1.0",
     "split2": "^3.2.2",
     "stop-build": "^1.1.0",
-    "style-loader": "^0.21.0",
+    "style-loader": "^2.0.0",
     "to-camel-case": "^1.0.0",
     "ts-jest": "^23.1.4",
     "ts-node": "^7.0.0",
