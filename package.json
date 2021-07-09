@@ -152,7 +152,7 @@
     "@types/react-dom": "^16.8.2",
     "@types/react-transition-group": "^4.4.0",
     "@types/react-virtualized": "^9.7.12",
-    "@types/request": "^2.0.9",
+    "@types/request": "^2.48.6",
     "@types/semver": "^5.5.0",
     "@types/source-map-support": "^0.5.2",
     "@types/split2": "^2.1.6",
